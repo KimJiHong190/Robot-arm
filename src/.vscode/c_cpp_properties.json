@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${/home}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kjh/arm_ws/devel/include/**",
+        "/home/kjh/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kjh/arm_ws/src/custom_msg_pkg/include/**",
+        "/home/kjh/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+        "/home/kjh/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/kjh/catkin_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/kjh/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/kjh/catkin_ws/src/TurtleBot3_Gmapping/include/**",
+        "/home/kjh/catkin_ws/src/SpotPro/spot_micro_motion_cmd/include/**",
+        "/home/kjh/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/kjh/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/kjh/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
