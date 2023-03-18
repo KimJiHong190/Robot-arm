@@ -10,3 +10,7 @@ The provided ROS Catkin make build system can be utilized, but I used ```catkin 
 
 -----------
 ### Software Checkout and Setup
+The software is composed of Python nodes in a ROS framework.
+* Ubuntu 20.04 + ROS1 Noetic
+* OpenCV 4.5.4.60
+* DYNAMIXEL-SDK
